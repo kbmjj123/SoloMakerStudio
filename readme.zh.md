@@ -1,4 +1,4 @@
-<p style="text-align: center;"><a href="https://github.com/kbmjj123/SoloMakerStudio/readme.md">English</a>|<a href="https://github.com/kbmjj123/SoloMakerStudio/readme.zh.md">中文</a></p>
+<p style="text-align: center;"><a href="https://github.com/kbmjj123/SoloMakerStudio/">English</a>|<a href="https://github.com/kbmjj123/SoloMakerStudio/blob/main/readme.zh.md">中文</a></p>
 # Solo Maker Studio
 
 欢迎体验 **Solo Maker Studio**，一个专为独立开发者打造的资源导航与指导平台！无论您是刚有创意灵感，还是准备将想法快速落地，我们提供从 **创意到上线** 的全流程工具和文章支持。
