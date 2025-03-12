@@ -1,3 +1,5 @@
+<p style="text-align: center;"><a href="https://github.com/kbmjj123/SoloMakerStudio/">English</a>|<a href="https://github.com/kbmjj123/SoloMakerStudio/blob/main/readme.zh.md">中文</a></p>
+
 # Solo Maker Studio
 
 Welcome to **Solo Maker Studio** – a resource hub built for solo developers to turn ideas into reality, fast. From brainstorming to launch, we provide tools and guides to streamline your journey.
